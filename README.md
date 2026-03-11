@@ -91,9 +91,7 @@ The analysis focuses on answering the following questions:
 
 ### Citywide Circulation Trend Heatmap
 
-![City Circulation Heatmap](visualizations/city_circulation_heatmap.png)
-
-**Insight**
+![City Circulation Heatmap](https://github.com/Athira-Ravichandran/Print-Media-Business-Analysis-2019-2024-/blob/main/charts/heatmap.png)
 
 - Many cities show a steady year-over-year decline in print circulation.
 - Decline rates vary across regions, indicating different adoption speeds for digital media.
@@ -128,4 +126,3 @@ The analysis shows that while print circulation is declining, Bharat Herald main
 
 ---
 
-## Repository Structure
